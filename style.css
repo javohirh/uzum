@@ -1,0 +1,73 @@
+.nav-cont-list li {
+  list-style: none;
+}
+.category a {
+  font-size: 12px !important;
+}
+
+.logo-con .active-heart {
+  color: red;
+}
+.active-card-heart {
+  fill: red;
+}
+
+.card-img-top {
+  display: block;
+  margin: auto;
+}
+.card {
+  border-radius: 20px !important;
+  border-radius: 12px !important;
+  position: relative;
+  border: none;
+  overflow: hidden;
+  transition: 0.3s ease;
+}
+.card:hover {
+  cursor: pointer;
+  box-shadow: 0px 0px 8px #00000050 !important;
+  .card-img-top {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+}
+.card .card-img-top {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  transition: 0.3s ease;
+}
+.card .card-img-top:hover {
+  transform: scale(1.04);
+}
+.card .card-like {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 28px;
+}
+.card .active-like {
+  color: red;
+}
+.card .fa-trash {
+  position: absolute;
+  top: 65%;
+}
+.offcanvas-body {
+  background-color: #ffeda9 !important;
+}
+.offcanvas-body .card {
+  margin: auto !important;
+  margin-top: 25px !important;
+}
+.card .liked {
+  color: red;
+}
+.card-weight {
+  padding: 0 5px !important;
+  border-radius: 4px;
+  background-color: #ffff00;
+}
+.fa-star {
+  color: gold;
+}
