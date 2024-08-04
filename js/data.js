@@ -1,9 +1,9 @@
 export let pokemonCards = [
   {
     id: 1,
-    title: "Diamond pearl",
+    title: "Erkaklar shimlari, tekis chinos, klassik",
     img: "https://picsum.photos/200",
-    comment: " 4.5 (Sharh) ",
+    comment: " 4.5 ",
     categories: "Ma'lumot uchun matn",
     monthlyPay: "1400 so'm/oy",
     realPrize: 1569000,
@@ -12,10 +12,10 @@ export let pokemonCards = [
   },
   {
     id: 2,
-    title: "Heartgold Soul",
+    title: "Ikki kamerali muzlatgich Biryusa M120, hajmi 205 l",
 
     img: "https://picsum.photos/200",
-    comment: " 4.5 (Sharh) ",
+    comment: " 4.5 ",
 
     categories: "Ma'lumot uchun matn",
     monthlyPay: "1400 so'm/oy",
@@ -25,10 +25,10 @@ export let pokemonCards = [
   },
   {
     id: 3,
-    title: "Scarlet & Violet",
+    title: "Svetocopy ECO varaq qog'ozi, A4",
 
     img: "https://picsum.photos/200",
-    comment: " 4.5 (Sharh) ",
+    comment: " 4.5 ",
 
     categories: "Ma'lumot uchun matn",
     monthlyPay: "1400 so'm/oy",
@@ -38,10 +38,10 @@ export let pokemonCards = [
   },
   {
     id: 4,
-    title: "Platinum",
+    title: "Fairy idish yuvish uchun suyuqlik, limon, 450 ml",
 
     img: "https://picsum.photos/200",
-    comment: " 4.5 (Sharh) ",
+    comment: " 4.5 ",
 
     categories: "Ma'lumot uchun matn",
     monthlyPay: "1400 so'm/oy",
@@ -54,7 +54,7 @@ export let pokemonCards = [
     title: "Black & White",
 
     img: "https://picsum.photos/200",
-    comment: " 4.5 (Sharh) ",
+    comment: " 4.5 ",
 
     categories: "Ma'lumot uchun matn",
     monthlyPay: "1400 so'm/oy",
@@ -67,7 +67,7 @@ export let pokemonCards = [
     title: "Sword & Shield",
 
     img: "https://picsum.photos/200",
-    comment: " 4.5 (Sharh) ",
+    comment: " 4.5 ",
 
     categories: "Ma'lumot uchun matn",
     monthlyPay: "1400 so'm/oy",
@@ -80,7 +80,7 @@ export let pokemonCards = [
     title: "Sun & Moon",
 
     img: "https://picsum.photos/200",
-    comment: " 4.5 (Sharh) ",
+    comment: " 4.5 ",
 
     categories: "Ma'lumot uchun matn",
     monthlyPay: "1400 so'm/oy",
@@ -93,7 +93,7 @@ export let pokemonCards = [
     title: "Brilliant Stars",
 
     img: "https://picsum.photos/200",
-    comment: " 4.5 (Sharh) ",
+    comment: " 4.5 ",
 
     categories: "Ma'lumot uchun matn",
     monthlyPay: "1400 so'm/oy",

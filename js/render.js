@@ -23,7 +23,8 @@ export function renderCard(menuItems, where = sectionEl) {
     title.textContent = item.title;
     weight.textContent = item.monthlyPay;
     age.innerHTML = `<del>${item.realPrize}</del>`;
-    comment.innerHTML = `<i class="fa-solid fa-star"></i> ${item.comment}`;
+    comment.innerHTML = `<i class="fa-solid fa-star"></i> ${item.comment}  (Sharh)
+`;
     discountPrice.textContent = item.discountPrice + " So'm";
 
     where.appendChild(newElement);
